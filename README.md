@@ -7,3 +7,5 @@ List of sensors :
 2. JSN-SRT04 (ultrasonic sensor)
 3. ACS 712 5A current sensor (with ADC converter ADS1115)
 4. SEN-0189 turbidity sensor (with ADC converter ADS1115)
+
+Autowc.py is a script where you can do an automatic water change by controlling your water pump with relay based on ultrasonic sensors readings to detect how many water you would like to change
